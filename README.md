@@ -1,1 +1,1 @@
-Amazon Web Service kullanarak backend , React-Native ile fronted yapımı 
+Amazon Web Service kullanarak backend , React-Native ile WhatsApp yapımı 
